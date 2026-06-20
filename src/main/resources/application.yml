@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: meta-post-analyzer
+
+meta:
+  access-token: ${META_ACCESS_TOKEN}
