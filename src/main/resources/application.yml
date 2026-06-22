@@ -6,4 +6,4 @@ server:
   port: ${PORT:8080}
 
 meta:
-  access-token: ${META_ACCESS_TOKEN}
+  access-token: ${META_ACCESS_TOKEN:dummy}
